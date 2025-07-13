@@ -29,6 +29,6 @@ This project demonstrates:
 ## 🧾 Bug Reports in Trello
 
 📌 **You can view the full Trello board with all reported bugs here:**  
-👉 [Visit Trello Board](https://trello.com/b/TWOJ_LINK_DO_BOARDA)
+👉 [Visit Trello Board](https://trello.com/b/WIeAiPE4/bug-reports)
 
 ## 📸 Screenshots
