@@ -37,12 +37,8 @@ This project demonstrates:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Cases.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - Dashboard.png" width="1000" height="500"/><br/>
       <sub>Test Cases</sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
-      <sub>Test Cycles</sub>
     </td>
   </tr>
   <tr>
