@@ -44,34 +44,34 @@ This project demonstrates:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Script.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 1.1.png" width="450" height="250"/><br/>
     </td>
     <td align="center">
-      <img src="screenshots/Zephyr - Test script (2).png" width="450" height="250"/><br/>
-    </td>
-  </tr>
-   <tr>
-    <td align="center">
-      <img src="screenshots/Zephyr - Test Case Details.png" width="450" height="250"/><br/>
-    </td>
-    <td align="center">
-      <img src="screenshots/Zephyr - Test Case Traceability.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 1.2.png" width="450" height="250"/><br/>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Bug Report.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 2.1.png" width="450" height="250"/><br/>
     </td>
     <td align="center">
-      <img src="screenshots/Zephyr - Bug reports.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 2.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="screenshots/Window - OLX - 3.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - OLX - 3.2.png" width="450" height="250"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Report.png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 4.1.png" width="450" height="250"/><br/>
     </td>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Report (2).png" width="450" height="250"/><br/>
+      <img src="screenshots/Window - OLX - 4.2.png" width="450" height="250"/><br/>
     </td>
   </tr>
 </table>
