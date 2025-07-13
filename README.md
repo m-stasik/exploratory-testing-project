@@ -74,4 +74,44 @@ This project demonstrates:
       <img src="screenshots/Window - OLX - 4.2.png" width="450" height="250"/><br/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 1.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 1.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 2.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 2.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 3.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 3.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 4.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 4.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 5.1.png" width="450" height="250"/><br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Window - ZEPHYR - 5.2.png" width="450" height="250"/><br/>
+    </td>
+  </tr>
 </table>
