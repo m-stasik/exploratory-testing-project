@@ -32,3 +32,57 @@ This project demonstrates:
 👉 [Visit Trello Board](https://trello.com/b/WIeAiPE4/bug-reports)
 
 ## 📸 Screenshots
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cases.png" width="450" height="250"/><br/>
+      <sub>Test Cases</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
+      <sub>Test Cycles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Script.png" width="450" height="250"/><br/>
+      <sub>Test Script</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test script (2).png" width="450" height="250"/><br/>
+      <sub>Test Script</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Case Details.png" width="450" height="250"/><br/>
+      <sub>Test Case Details</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Case Traceability.png" width="450" height="250"/><br/>
+      <sub>Test Case Traceability</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Bug Report.png" width="450" height="250"/><br/>
+      <sub>Bug Report</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Bug reports.png" width="450" height="250"/><br/>
+      <sub>Bug Reports</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Report.png" width="450" height="250"/><br/>
+      <sub>Test Report</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Report (2).png" width="450" height="250"/><br/>
+      <sub>Test Report</sub>
+    </td>
+  </tr>
+</table>
