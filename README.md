@@ -33,7 +33,6 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-
 <table>
   <tr>
     <td align="center">
@@ -41,6 +40,8 @@ This project demonstrates:
       <sub>Test Cases</sub>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center">
       <img src="screenshots/Zephyr - Test Script.png" width="450" height="250"/><br/>
