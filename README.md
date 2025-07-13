@@ -48,7 +48,6 @@ This project demonstrates:
     </td>
     <td align="center">
       <img src="screenshots/Zephyr - Test script (2).png" width="450" height="250"/><br/>
-      <sub>Test Script</sub>
     </td>
   </tr>
    <tr>
