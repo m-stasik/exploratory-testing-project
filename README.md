@@ -36,7 +36,7 @@ This project demonstrates:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Window - Dashboard.png" width="900" height="500"/><br/>
+      <img src="screenshots/Window - Dashboard.png" width="950" height="500"/><br/>
       <sub>Test Cases</sub>
     </td>
   </tr>
