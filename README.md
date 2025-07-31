@@ -44,7 +44,7 @@ This project demonstrates:
 
 <div align="center">
 
-### 🔗 [👉 CLICK HERE TO VIEW THE TRELLO BOARD 👈](https://trello.com/b/WIeAiPE4/bug-reports)
+# 🔗 [👉 CLICK HERE TO VIEW THE TRELLO BOARD 👈](https://trello.com/b/WIeAiPE4/bug-reports)
 
 </div>
 
