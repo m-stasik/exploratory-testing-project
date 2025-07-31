@@ -10,8 +10,19 @@ The goal of this project was to strengthen my practical testing skills by explor
 ## 🧭 Scope of Testing
 
 ### 1. **OLX – Mobile Application**
-The OLX mobile app was tested on smartphones to simulate a realistic user experience. The testing focused on exploring the core functionalities, user interface, and navigation patterns.  
-This helped evaluate both my exploratory techniques and my ability to identify unexpected or inconsistent behaviors.
+
+The **OLX mobile app** is part of a large-scale global marketplace platform operating in **over 30 countries**, with a user base of **over 300 million monthly active users** worldwide. It's one of the leading online classifieds platforms, with **millions of listings and daily transactions**, and **tens of millions of downloads** across mobile operating systems.
+
+As part of my portfolio, I performed exploratory testing on the OLX mobile app using a real device (iPhone 13 Pro, iOS 15), simulating real-world user behavior.
+
+The testing focused on:
+
+- Verifying core functionalities such as login, search, navigation, and posting media
+- Evaluating the user interface and navigation patterns
+- Identifying UX/UI inconsistencies, glitches, and logic errors
+- Creating detailed bug reports using a structured template
+
+This project helped me sharpen my **manual testing skills**, understand large production-grade systems, and improve my ability to observe, analyze, and document complex behaviors in a real application used by millions of users.
 
 ### 2. **Zephyr Scale – Jira Plugin**
 Zephyr Scale was originally used as a test management tool during another project. While working within the application, I encountered certain irregularities that I treated as part of a separate exploratory testing session.  
