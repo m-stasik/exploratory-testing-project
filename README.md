@@ -42,12 +42,15 @@ This project demonstrates:
 
 📌 **All reported bugs have been documented in a public Trello board.**
 
+---
+
 <div align="center">
 
 # 🔗 [👉 CLICK HERE TO VIEW THE TRELLO BOARD 👈](https://trello.com/b/WIeAiPE4/bug-reports)
 
 </div>
 
+---
 
 ## 📸 Screenshots
 
