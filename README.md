@@ -13,7 +13,7 @@ As part of my QA portfolio, I performed **exploratory and functional testing** o
 
 ---
 
-### 📱 OLX – Mobile Application
+####  OLX – Mobile Application
 
 Tested core features such as login, search, media upload, and navigation on a real device (**iPhone 13 Pro, iOS 15**).  
 OLX is a **global marketplace platform** used by **over 300 million users in 30+ countries**, which makes it a complex, high-traffic, production-level application.
@@ -22,7 +22,7 @@ During testing, I identified various UI/UX issues, functional bugs, and inconsis
 
 ---
 
-### 🧩 Zephyr Scale – Jira Plugin
+####  Zephyr Scale – Jira Plugin
 
 Used as a **test management tool** for organizing test cases and execution cycles.  
 While working with Zephyr Scale, I encountered several UI and formatting issues and treated them as part of a separate **exploratory testing session**.
