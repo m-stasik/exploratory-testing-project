@@ -9,24 +9,25 @@ The goal of this project was to strengthen my practical testing skills by explor
 
 ## 🧭 Scope of Testing
 
-### 1. **OLX – Mobile Application**
+As part of my QA portfolio, I performed **exploratory and functional testing** on two real-world applications. The testing was aimed at identifying usability issues, UI inconsistencies, and edge-case defects. Below is a brief summary of the tested systems:
 
-The **OLX mobile app** is part of a large-scale global marketplace platform operating in **over 30 countries**, with a user base of **over 300 million monthly active users** worldwide. It's one of the leading online classifieds platforms, with **millions of listings and daily transactions**, and **tens of millions of downloads** across mobile operating systems.
+---
 
-As part of my portfolio, I performed exploratory testing on the OLX mobile app using a real device (iPhone 13 Pro, iOS 15), simulating real-world user behavior.
+### 📱 OLX – Mobile Application
 
-The testing focused on:
+Tested core features such as login, search, media upload, and navigation on a real device (**iPhone 13 Pro, iOS 15**).  
+OLX is a **global marketplace platform** used by **over 300 million users in 30+ countries**, which makes it a complex, high-traffic, production-level application.
 
-- Verifying core functionalities such as login, search, navigation, and posting media
-- Evaluating the user interface and navigation patterns
-- Identifying UX/UI inconsistencies, glitches, and logic errors
-- Creating detailed bug reports using a structured template
+During testing, I identified various UI/UX issues, functional bugs, and inconsistencies, which were documented as part of structured bug reports.
 
-This project helped me sharpen my **manual testing skills**, understand large production-grade systems, and improve my ability to observe, analyze, and document complex behaviors in a real application used by millions of users.
+---
 
-### 2. **Zephyr Scale – Jira Plugin**
-Zephyr Scale was originally used as a test management tool during another project. While working within the application, I encountered certain irregularities that I treated as part of a separate exploratory testing session.  
-I documented those findings in the same structured way as for the OLX app.
+### 🧩 Zephyr Scale – Jira Plugin
+
+Used as a **test management tool** for organizing test cases and execution cycles.  
+While working with Zephyr Scale, I encountered several UI and formatting issues and treated them as part of a separate **exploratory testing session**.
+
+Zephyr Scale is a popular Jira plugin used by QA teams worldwide for managing manual and automated test processes. My experience includes writing test cases and reporting real issues found within the tool itself.
 
 
 ## 🎯 Goal
